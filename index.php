@@ -42,6 +42,7 @@
     <a id="lego">LEGO</a>
     <a id="music">Music</a>
     <a id="other">Other</a>
+    <a id="other">Arcade</a>
   </div>
 
   <div class="main">
